@@ -1,0 +1,6 @@
+01_setup.sh;  $selectedSubVoice
+02_prepare_conf_files.sh;  conf/global_settings.cfg
+03_train_duration_model.sh;  conf/duration_$selectedSubVoice.conf
+04_train_acoustic_model.sh;  conf/acoustic_$selectedSubVoice.conf
+05_run_merlin.sh;  conf/test_dur_synth_$selectedSubVoice.conf conf/test_synth_$selectedSubVoice.conf
+run_demo.sh; 

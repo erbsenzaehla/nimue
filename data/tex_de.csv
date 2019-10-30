@@ -1,0 +1,58 @@
+acConf; Akustiktraining: Einstellungen
+acModelTraining; Akustikmodelltraining
+acModelTrainingNotification; Trainiere Akustikmodell...
+addTxtButton; Textdateien hinzufügen (txt)
+addWavButton; Audiodateien hinzufügen (wav)
+calibrationBad; CKalibrierung erfolgreich. Ein Computer mit mehr Rechenleistung wird empfohlen. (Grafikkartennutzung nicht einkalkuliert)
+calibrationButton; Rechenleistung kalibrieren
+calibrationGood; Kalibrierung erfolgreich. Los geht's!
+calibrationNeutral; Kalibrierung erfolgreich. Training könnte etwas länger dauern
+closeOptions; Optionen <<
+diagramXLabel; Epoche
+diagramYLabel; Trainings- (blau) und Validierungsfehler (orange)
+dontForgetSave; Nach dem Bearbeiten der Konfigurationsdatei das Speichern nicht vergessen!d
+durConf; Zeittraining: Einstellungen
+durModelTraining; Zeitmodelltraining
+durModelTrainingNotification; Trainiere Zeitmodell...
+fileAddError; Dateien konnten nicht hinzugefügt werden.
+fileAddSuccess; Dateien erfolgreich hinzugefügt!
+fontSize; Schriftgröße:
+genConf; Allgemeine Einstellungen
+genWave; Generiere Audio
+killSwitch; Nimue verlassen
+layer; Ebene 
+layers; Ebenen
+nimueTitle; NIMUE - ein Nettes Interface für Merlin (Und Experimente damit)
+noConfFileInfo; Keine Konfigurationsdatei gefunden. Diese Stimme wird von Nimue (noch) nicht unterstützt.
+notEnoughFiles; Es werden mehr Audiodateien (und zugehörige Textdateien) benötigt, um die Stimme zu erstellen.
+openAcConfFile; Weitere Einstellungen...
+openDurConfFile; Weitere Einstellungen...
+openGenConfFile; Weitere Einstellungen...
+openOptions; Optionen >>
+ownVoiceButton; Jetzt erstellen
+ownVoiceLabel; Neue Stimme erstellen:
+playWave; Audio abspielen
+saveConfig; Einstellungen speichern
+saveError; Einstellungen konnten nicht erfolgreich gespeichert werden.
+saveSuccess; Einstellungen erfolgreich gespeichert.
+selectLangLabel; Sprache wählen:
+selectModeLabel; Modus wählen:
+selectStyleLabel; Farbschema wählen:
+selectSubVoiceLabel; Auswahl spezifizieren
+selectVoiceLabel; Stimme wählen
+seqTrainingTime1; Sequentielles Training mit diesen Einstellung kann zwischen 
+seqTrainingTime2;  und 
+seqTrainingTime3;  Minuten dauern. (Ungefähre Schätzung)
+somethingWentWrong; Irgendetwas ist schiefgegangen, wahrscheinlich wird diese Stimme von Nimue (noch) nicht unterstützt.
+speakingNotSupported; Sprachgenerierung wird für diese Stimme (noch) nicht unterstützt.
+speechMode; Sprechmodus
+startingCalibration; Beginne Kalibrierung
+textNotEmpty; Text darf nicht leer sein.
+timeEstimationError; Es gab einen Fehler bei der Trainingszeitabschätzung
+trainingMode; Trainingsmodus
+trainingResults; Trainingsergebnisse
+trainingTime1; Training mit diesen Einstellungen wird ca. 
+trainingTime2;  Minuten dauern. (Ungefähre Schätzung)
+trySave; Versuche, Einstellungen zu speichern...
+voiceNeedsName; Bitte einen Namen für die Stimme eingeben
+welcome; Willkommen bei NIMUE.

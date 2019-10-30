@@ -1,0 +1,19 @@
+bds; groove
+bdw; 2
+bg; snow4
+borderColor; dim gray
+button; MediumPurple3
+buttonAct; DarkGoldenRod2
+fixButton; MediumPurple3
+inactive; gray55
+indicatorOn; dark green
+infoText; bisque
+killButton; OrangeRed2
+killButtonAct; red3
+settingsBg; gray79
+spButton; MediumPurple3
+spButtonAct; DarkGoldenRod2
+specialBg; RoyalBlue1
+testButton; sienna1
+testButtonAct; OrangeRed2
+textColor; gray1

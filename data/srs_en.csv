@@ -1,0 +1,15 @@
+01_setup.sh; 1. Setup
+02_prepare_conf_files.sh; 2. Prepare Configuration
+02_prepare_labels.sh; 2. Prepare Labels
+03_prepare_acoustic_features.sh; 3. Prepare Acoustic Features
+03_train_duration_model.sh; 3. Train Duration Model
+04_prepare_conf_files.sh; 4. Prepare Configuration
+04_train_acoustic_model.sh; 4. Train Acoustic Model
+05_run_merlin.sh; 5. Synthesize new audio files
+05_train_duration_model.sh; 5. Train Duration Model
+06_train_acoustic_model.sh; 6. Train Acoustic Model
+07_run_merlin.sh; 7. Synthesize new audio files
+merlin_synthesis.sh; Merlin Synthesis
+run_demo.sh; Run Demo
+run_demo_voice.sh; Run Demo
+run_full_voice.sh; Run full voice

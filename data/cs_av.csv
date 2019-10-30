@@ -1,0 +1,19 @@
+bds; flat
+bdw; 0
+bg; NavajoWhite2
+borderColor; goldenrod1
+button; yellow green
+buttonAct; forest green
+fixButton; yellow green
+inactive; gray70
+indicatorOn; green2
+infoText; bisque
+killButton; OrangeRed2
+killButtonAct; red3
+settingsBg; bisque
+spButton; chartreuse
+spButtonAct; chartreuse3
+specialBg; goldenrod1
+testButton; tan1
+testButtonAct; sienna1
+textColor; gray1

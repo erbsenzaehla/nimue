@@ -1,0 +1,58 @@
+acConf; Acoustic Training Configuration
+acModelTraining; Acoustic Model Training
+acModelTrainingNotification; Training the Acoustic Model
+addTxtButton; Add text files (txt)
+addWavButton; Add audio files (wav)
+calibrationBad; Calibration done. You may want to use a faster computer. (Graphic card usage is not factored in)
+calibrationButton; Calibrate computing power
+calibrationGood; Calibration done. Your are good to go!
+calibrationNeutral; Calibration done. Training might take some time.
+closeOptions; Options <<
+diagramXLabel; Epoch
+diagramYLabel; Training (blue) and validation (orange) Error
+dontForgetSave; Don't forget to save the configuration file after editing!
+durConf; Duration Training Configuration
+durModelTraining; Duration Model Training
+durModelTrainingNotification; Training the Duration Model
+fileAddError; Something went wrong, could not add files.
+fileAddSuccess; All files successfully added!
+fontSize; Font Size:
+genConf; General Configuration
+genWave; Generate Audio
+killSwitch; Leave Nimue
+layer; Layer 
+layers; Layers
+nimueTitle; NIMUE - a Nice Interface for a better Merlin User Experience
+noConfFileInfo; No configuration file found. Please note that this voice is not supported by Nimue.
+notEnoughFiles; You need more audio files (and corresponding text files) to build your voice!
+openAcConfFile; More Settings (File)
+openDurConfFile; More Settings (File)
+openGenConfFile; More Settings (File)
+openOptions; Options >>
+ownVoiceButton; Create new voice
+ownVoiceLabel; ...or create a new voice:
+playWave; Play Audio
+saveConfig; Save Configuration
+saveError; Please don't hit me again, but there has been a catastrophic failure while saving your configurations!
+saveSuccess; Configurations successfully saved.
+selectLangLabel; Select a language:
+selectModeLabel; Select mode:
+selectStyleLabel; Select a color style:
+selectSubVoiceLabel; Specify your choice
+selectVoiceLabel; Select a voice
+seqTrainingTime1; Sequential training with these settings might take between 
+seqTrainingTime2;  and 
+seqTrainingTime3;  minutes (Raw training time)
+somethingWentWrong; Something went wrong...  This voice is probably not supported by Nimue yet
+speakingNotSupported; Speaking is not supported for this voice
+speechMode; Speech Mode
+startingCalibration; Starting Calibration
+textNotEmpty; Text must not be empty
+timeEstimationError; There was an error estimating the time needed for training.
+trainingMode; Training Mode
+trainingResults; Training Results
+trainingTime1; Training with these settings will probably take around 
+trainingTime2;  minutes (Raw training time)
+trySave; Trying to save configurations.
+voiceNeedsName; A voice needs a name
+welcome; Welcome to NIMUE.
